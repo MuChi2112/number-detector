@@ -13,7 +13,9 @@ This is a Python code that can recognize handwritten Arabic numerals. Once it st
 ## Usage
 
 1. Run this script from command line without arguments to use the default keywords:
+```
 python cnn_mnist_app.py
+```
 
 2. Visual Studio Code
 Download VSCode https://code.visualstudio.com/
@@ -29,4 +31,6 @@ Done it and Run code
 
 ### Build exe
 Using terminal and pyinstaller to build exe
+```
 $ pyinstaller -F cnn_mnist_app.py
+```
