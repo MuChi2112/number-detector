@@ -7,7 +7,9 @@
 <a target="badge" href="https://github.com/MuChi2112/number-detector" title="python version"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a target="badge" href="https://github.com/MuChi2112/number-detector" title="python version"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>  
 </p>
+
 ## Introduction
+
 This is a Python code that can recognize handwritten Arabic numerals. Once it starts running, a handwriting board will pop up. Then you can write the Arabic numerals in this pop-up window. The computer will then provide the corresponding number.
 
 ## Usage
